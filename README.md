@@ -8,7 +8,7 @@ Berikut adalah tampilan antarmuka aplikasi berdasarkan desain yang telah diimple
 
 | **1. Dashboard (Beranda)** | **2. Daftar Tugas (List)** |
 |:---:|:---:|
-| <img src="assets/screenshots/dashboard.png" width="300" /> | <img src="assets/screenshots/list.png" width="300" /> |
+| <img src="assets/screenshots/dashboard.png" width="300" /> | <img src="assets/screenshots/list_task.png" width="300" /> |
 | *Menampilkan ringkasan tugas dan tugas terdekat.* | *Fitur pencarian dan filter status (Semua, Berjalan, Selesai, Terlambat).* |
 
 | **3. Detail Tugas** | **4. Tambah Tugas** |

@@ -8,12 +8,12 @@ Berikut adalah tampilan antarmuka aplikasi berdasarkan desain yang telah diimple
 
 | **1. Dashboard (Beranda)** | **2. Daftar Tugas (List)** |
 |:---:|:---:|
-| <img src="assets/screenshots/dashboard.png" width="300" /> | <img src="assets/screenshots/task_list.png" width="300" /> |
+| <img src="assets/screenshots/dashboard.png" width="300" /> | <img src="assets/screenshots/list.png" width="300" /> |
 | *Menampilkan ringkasan tugas dan tugas terdekat.* | *Fitur pencarian dan filter status (Semua, Berjalan, Selesai, Terlambat).* |
 
 | **3. Detail Tugas** | **4. Tambah Tugas** |
 |:---:|:---:|
-| <img src="assets/screenshots/detail_task.png" width="300" /> | <img src="assets/screenshots/add_task.png" width="300" /> |
+| <img src="assets/screenshots/detail.png" width="300" /> | <img src="assets/screenshots/tambah.png" width="300" /> |
 | *Edit catatan, deadline logic, dan update status penyelesaian.* | *Form validasi input (tanpa angka pada judul) dan DatePicker.* |
 
 > **Catatan:** Screenshot disimpan di folder `assets/screenshots/`.
